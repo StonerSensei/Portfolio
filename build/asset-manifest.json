@@ -1,19 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.f87003e3.css",
-    "main.js": "/portfolio/static/js/main.1eec07e1.js",
-    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
-    "static/media/ivan-stern-LOLSb7m6XkU-unsplash.jpg": "/portfolio/static/media/ivan-stern-LOLSb7m6XkU-unsplash.6f4c7bc279b5dbc12997.jpg",
-    "static/media/snake.jpg": "/portfolio/static/media/snake.962ba5767b747c063760.jpg",
-    "static/media/chess.jpg": "/portfolio/static/media/chess.66ec5fb8500276694833.jpg",
-    "static/media/wise_way.jpg": "/portfolio/static/media/wise_way.b0928eff7cc558676bd1.jpg",
-    "index.html": "/portfolio/index.html",
-    "main.f87003e3.css.map": "/portfolio/static/css/main.f87003e3.css.map",
-    "main.1eec07e1.js.map": "/portfolio/static/js/main.1eec07e1.js.map",
-    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/StonerSensei/Portfolio.git/static/css/main.592e06f0.css",
+    "main.js": "/StonerSensei/Portfolio.git/static/js/main.56788ed3.js",
+    "static/js/453.1407b060.chunk.js": "/StonerSensei/Portfolio.git/static/js/453.1407b060.chunk.js",
+    "static/media/images.jpeg": "/StonerSensei/Portfolio.git/static/media/images.b5252ef144c9ae224d08.jpeg",
+    "index.html": "/StonerSensei/Portfolio.git/index.html",
+    "main.592e06f0.css.map": "/StonerSensei/Portfolio.git/static/css/main.592e06f0.css.map",
+    "main.56788ed3.js.map": "/StonerSensei/Portfolio.git/static/js/main.56788ed3.js.map",
+    "453.1407b060.chunk.js.map": "/StonerSensei/Portfolio.git/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f87003e3.css",
-    "static/js/main.1eec07e1.js"
+    "static/css/main.592e06f0.css",
+    "static/js/main.56788ed3.js"
   ]
 }
